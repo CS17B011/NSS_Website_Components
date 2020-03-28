@@ -1,5 +1,5 @@
 .img-thoughts {
-    background-color: #efefef !important;
+    background-color: #00d7e1 !important;
 }
 
 .single-blog {
@@ -77,4 +77,5 @@
 
 .controls-down a {
     padding: 10px;
+    align-content: center;
 }
